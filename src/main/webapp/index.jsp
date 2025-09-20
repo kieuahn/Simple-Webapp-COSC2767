@@ -10,7 +10,7 @@
 
     <title>Hello DevOps Students of RMIT Vietnam! HEELOOOOOO</title>
   </head>
-  <body
+  <body>
 
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
